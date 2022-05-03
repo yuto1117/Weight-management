@@ -1,0 +1,42 @@
+body {
+    background-color: #fafafa;
+}
+
+.reiauto {
+    width: 500px; /*横幅*/
+    margin: 70px auto;/*中央よせ*/
+    padding: 50px 0;
+    background-color: #fff;
+    border: 1px solid #d1d1d1;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 20px auto;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    font-size: 1.2em;
+    margin: 5px;
+}
+
+button {
+    width: 20%;
+    margin-top: 5px;
+    background-color: #2096f3;
+    color: #fff;
+    border: 0;
+    border-radius: 3px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, .4); 
+}
+
+.control {
+    margin-bottom: 20px;
+}
